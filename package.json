@@ -62,7 +62,6 @@
     "workbox-webpack-plugin": "4.2.0"
   },
   "devDependencies": {
-    "@babel/core": "7.4.3",
     "@fluentui/react": "^7.135.0",
     "@svgr/webpack": "4.1.0",
     "@types/d3": "^5.7.2",
